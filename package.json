@@ -1,0 +1,15 @@
+{
+  "name": "tutorial-salud-repositorios",
+  "version": "1.0.0",
+  "description": "Aplicación de prueba para fomentar salud en repositorios",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "Nicolas Avila",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^3.0.0"
+  }
+}
